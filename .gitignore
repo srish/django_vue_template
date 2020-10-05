@@ -1,0 +1,7 @@
+build/*
+backend/__pycache__/*
+frontend/node_modules/*
+frontend/webpack-stats.json
+.DS_Store
+db.sqlite3
+backend/app/__pycache__/*
